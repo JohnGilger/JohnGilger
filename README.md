@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnGilger
-- 👀 I’m interested in Python for web design, data analysis, and apps
+- 👀 I’m interested in web progrramming and Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ptyhon projects where I can contribute while I learn.
+- 💞️ I’m looking to collaborate on projects where I can contribute while I learn.
 - 📫 How to reach me ... email: john@jgilger.com
 
 <!---
